@@ -8,10 +8,11 @@
 <img src="https://2.bp.blogspot.com/-uOs8j_C9RE4/XdnRtuNN_pI/AAAAAAAVAAQ/570wOOuVKF8F7200Px56Jfke6tpZC_zFQCNcBGAsYHQ/s1600/AW4094862_01.gif" alt="" width="150" />
   </div>
 </div>
-
-<p>Hello, My name is Doan Pham Bich Hop <br /> 
-  I am a part-time extrovert <br/>
-And in the process of self-improvement</p>
+<div align="center">
+  <div style="display: flex;">
+    <p>Hello, My name is Doan Pham Bich Hop <br /> 
+      I am a part-time extrovert <br/>
+    And in the process of self-improvement</p>
 <br />
 </div>
 </div>
